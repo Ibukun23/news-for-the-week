@@ -1,2 +1,2 @@
 # news-for-the-week
-hello 
+hello clarance.
